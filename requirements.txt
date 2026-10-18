@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+pandas
+numpy
+scipy
+mne
+xgboost
+joblib
+torch
+torchvision
+timm
+einops
+scikit-learn==1.6.1
